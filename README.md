@@ -72,6 +72,7 @@ Here is a quick summary of the different visuals created. I created different ta
 
 
 Report Design
+
 The dashboard was formatting to provide consistent formatting across the visuals. A custom theme was created to use standardized fonts, font sizes and color themes.
 A navigator was added to help easier navigation across the different tabs.
 
