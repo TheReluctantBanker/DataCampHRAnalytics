@@ -1,5 +1,5 @@
 # DataCampHRAnalytics
-HR Analytics dashboard prepared as part of case study based course work at Data Camp
+Power BI based HR Analytics dashboard prepared as part of case study based course work at Data Camp
 
 The dashboard was created in Power BI as a part of the course "Case Study in HR Analytics" in Data Camp.
 Here are screenshots from the dashboard, followed by notes on data preparation, data modelling, data visualization and report building.
